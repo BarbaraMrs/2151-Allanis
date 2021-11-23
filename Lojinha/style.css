@@ -1,7 +1,7 @@
 body{
 }
 nav{
-    background-color: black;
+    background-color: rgb(161, 180, 189);
 }
 
 #home, #contato{
@@ -10,9 +10,14 @@ nav{
 }
 #home img{
     
-max-height: 300px;
+    max-height: 300px;
 
 }
 #footer{
-    background-color: rgb(216, 166, 147);
+    background-color: rgb(178, 188, 207);
+    margin-bottom: 2em;
+}
+
+.card{
+    margin-bottom: 2em;
 }
